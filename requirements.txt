@@ -1,0 +1,10 @@
+opencv-python
+flask
+python-dotenv
+numpy
+pillow
+playsound==1.2.2
+dlib-bin==19.24.6
+face_recognition
+face-recognition-models
+click
